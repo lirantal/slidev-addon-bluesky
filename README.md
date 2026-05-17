@@ -36,6 +36,10 @@ layout: default
 - `id`: The full Bluesky post ID (you can grab this from the link to share the post as an embed)
 
 
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
+
 ## Author
 
 Liran Tal <liran@lirantal.com>
