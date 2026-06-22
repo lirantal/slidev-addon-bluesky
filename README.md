@@ -35,6 +35,9 @@ layout: default
 
 - `id`: The full Bluesky post ID (you can grab this from the link to share the post as an embed)
 
+## Documentation
+
+- [Project documentation](./docs/README.md) - development, testing, architecture, and conventions.
 
 ## Contributing
 
